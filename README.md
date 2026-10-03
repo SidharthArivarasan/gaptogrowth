@@ -12,7 +12,7 @@ Every skill gap becomes a chance to grow. GapToGrowth builds a personal **Learni
   <img src="assets/carousel/slide-5.png" width="30%" alt="Step 5: Every gap becomes a lesson">
 </p>
 
-Version 1.1.1 · [5-step walkthrough (PDF)](assets/carousel/GapToGrowth_Carousel.pdf) · [Try the Learning Hub demo](examples/learning-hub-demo)
+Version 1.1.2 · [5-step walkthrough (PDF)](assets/carousel/GapToGrowth_Carousel.pdf) · [Try the Learning Hub demo](examples/learning-hub-demo)
 
 ---
 
@@ -27,6 +27,8 @@ Version 1.1.1 · [5-step walkthrough (PDF)](assets/carousel/GapToGrowth_Carousel
 | **5. Every gap becomes a lesson** | A and B skills become lessons in your Learning Hub. Required skills get full lessons; nice-to-haves get short cards you can expand. | Nothing. It updates automatically |
 
 **The honesty rule:** GapToGrowth never adds experience you don't have. If a keyword would help but can't be verified, it asks you first.
+
+**ATS-ready by default:** exact job title in the header when honest, the job's own keyword phrases where true, a single-column layout with standard headings, contact details in the body, and consistent dates.
 
 ---
 

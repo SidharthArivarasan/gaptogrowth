@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.2
+- ATS formatting standards for every resume: honest exact job title, 25 to 35 truthful JD keywords, single column, standard headings, contact details in the body, consistent dates, and a keyword report after each draft.
+- Plugin display name "GapToGrowth" and search keywords.
+
 ## 1.1.1
 - Reference resumes inside the plugin are now Markdown with a Layout specs block, so the Claude directory can inspect every file. Polished PDF and Word versions remain in `examples/reference-resumes/`.
 - Added the plugin icon.

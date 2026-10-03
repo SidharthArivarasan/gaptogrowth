@@ -114,6 +114,15 @@ Do NOT read at session start: `Learning Hub/content/*.js`, the hub HTML, `Job De
 - **Clear replies:** every question or nudge that expects a choice ends with `Reply with one of:` followed by the options in backticks, for example: Reply with one of: `Rename them` · `Keep the names`
 - **Token estimates:** before any optional task that writes a lot (expanding a lesson, upgrading old lessons, enriching lessons), estimate tokens as characters to write ÷ 3.5, shown as a range up to 1.3× that number. Label it small (under 3,000), medium (3,000 to 10,000), or large (over 10,000). Never claim a percentage of the user's plan; plan limits are not published in tokens.
 
+### ATS formatting standards (apply to every resume)
+- **Title line:** under the name, use the JD's exact posted job title as the subtitle when it honestly describes the user's experience. Otherwise use the closest honest title.
+- **Keywords:** work in the JD's exact keyword phrases wherever they are true for the user, aiming for roughly 25 to 35 across the resume. Count only AUTO-ADDED and Category A items. Never add a keyword just to reach the target; fewer honest keywords beat more stuffed ones.
+- **Layout:** single column, standard section headings (Summary, Experience, Education, Skills, Projects, Certifications), and no icons, tables, text boxes, columns, or graphics.
+- **Contact details** go in the document body, never in a header or footer.
+- **Dates** use one format throughout: "Mon YYYY – Mon YYYY" (for example "Mar 2022 – Present").
+- **Formats:** the Word (.docx) file is the main version; every approved resume is also delivered as a PDF.
+- **After writing the Word file,** report the number of JD keywords used and list any important ones left out, with the reason (usually: not verified).
+
 ---
 
 ## 4. PHASE 0: ONBOARDING (first session only)
@@ -176,6 +185,7 @@ A high score never permits fabrication.
 Wait for the user's decisions. Nothing may remain in C. Update file 03 with anything verified.
 
 ### Step 6: Word resume
+- Follow the ATS formatting standards in Section 3.
 - Start from the standing resume and knowledge files, never a Reference Resume. Follow Layout Notes in file 01; if `Instructions/Resume_Template.docx` exists, follow its layout instead.
 - Place AUTO-ADDED and A items where they belong: an experience bullet when real evidence supports one, otherwise the Skills section.
 - Save as `Finished Resume Docs/{FileName}_RoleName_CompanyName.docx` (no spaces; append `_YYYY-MM` if the name exists; never overwrite).
