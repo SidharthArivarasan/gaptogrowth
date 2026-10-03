@@ -12,7 +12,7 @@ Every skill gap becomes a chance to grow. GapToGrowth builds a personal **Learni
   <img src="assets/carousel/slide-5.png" width="30%" alt="Step 5: Every gap becomes a lesson">
 </p>
 
-Version 1.1.2 · [5-step walkthrough (PDF)](assets/carousel/GapToGrowth_Carousel.pdf) · [Try the Learning Hub demo](examples/learning-hub-demo)
+Version 1.1.3 · [5-step walkthrough (PDF)](assets/carousel/GapToGrowth_Carousel.pdf) · [Try the Learning Hub demo](examples/learning-hub-demo)
 
 ---
 
@@ -165,6 +165,8 @@ gaptogrowth/
 - GapToGrowth is a set of instructions plus a local web page. It has no server, makes no network requests, and collects nothing.
 - Your resumes, knowledge files, lessons, and progress live in the folder you choose. Claude processes them under your own Claude account and Anthropic's terms. Cowork sessions may run in the cloud; see Anthropic's Cowork documentation.
 - **Never share your filled-in folder.** It contains your career history. Share this repository instead.
+
+Read the full [Privacy policy](PRIVACY.md).
 
 ## Disclaimer
 

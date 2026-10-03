@@ -27,6 +27,8 @@ Every skill gap becomes a lesson in your personal **Learning Hub**: a local webs
 
 GapToGrowth is an independent project, not affiliated with or endorsed by Anthropic. Always review every resume before sending it.
 
+Read the full [Privacy](https://github.com/SidharthArivarasan/gaptogrowth/blob/main/PRIVACY.md) policy.
+
 ## License
 
 MIT. See `LICENSE`.

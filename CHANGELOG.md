@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.1.3
+- Added a privacy policy (PRIVACY.md) and privacyPolicyUrl.
+
 ## 1.1.2
 - ATS formatting standards for every resume: honest exact job title, 25 to 35 truthful JD keywords, single column, standard headings, contact details in the body, consistent dates, and a keyword report after each draft.
 - Plugin display name "GapToGrowth" and search keywords.
