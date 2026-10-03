@@ -11,7 +11,7 @@ skills/gaptogrowth/
     ├── lesson-format.md             content file format (schema 1)
     ├── learning-hub/Career_Learning_Hub.html   the hub app (G2G_SHELL_VERSION inside)
     ├── templates/                   00 to 05 + decisions_template.md
-    └── reference-resumes/           two fictional sample PDFs
+    └── reference-resumes/           two fictional sample text files (.md)
 ```
 
 ## Folder template mapping
