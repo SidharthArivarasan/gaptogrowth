@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1
+- Reference resumes inside the plugin are now Markdown with a Layout specs block, so the Claude directory can inspect every file. Polished PDF and Word versions remain in `examples/reference-resumes/`.
+- Added the plugin icon.
+
 ## 1.1.0 (first public release)
 
 **Interactive Learning Hub**

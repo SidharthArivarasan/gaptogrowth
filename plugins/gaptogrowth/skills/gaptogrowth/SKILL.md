@@ -63,7 +63,7 @@ When resumes disagree, never silently pick a side. Flag it in the Phase 1 list w
 
 ### Reference Resumes rule (STRICT)
 
-Resumes in `Sample Resume/Reference Resumes` belong to other people (friends, classmates, colleagues) or are the two fictional samples GapToGrowth provides (`Reference_Experienced_OnePage.pdf` and `Reference_Graduate_OnePage.pdf`).
+Resumes in `Sample Resume/Reference Resumes` belong to other people (friends, classmates, colleagues) or are the two fictional samples GapToGrowth provides (`Reference_Experienced_OnePage.md` and `Reference_Graduate_OnePage.md`, text files with a Layout specs block).
 - Never use them as facts about the user or as samples of the user's voice.
 - Never copy, quote, or store any of their content (names, employers, metrics, wording) in any file.
 - Use them only for layout ideas: section order, spacing, heading style, length. Record those patterns once as Layout Notes in file 01.
@@ -120,7 +120,7 @@ Do NOT read at session start: `Learning Hub/content/*.js`, the hub HTML, `Job De
 
 1. Confirm folder access. Create every missing folder from the folder map.
 2. Create any missing knowledge files 00 to 05 from the blank templates (skill version: `references/templates/`; template version: they already exist). Never overwrite an existing file. Skill version only: copy `references/START_HERE.md` to the project folder root if it is missing.
-3. If `Reference Resumes` is empty, copy the two sample reference resumes there (skill version: from `references/reference-resumes/`; template version: they are already there). Never copy them into `My Resumes`.
+3. If `Reference Resumes` is empty, copy the two sample reference resumes there (skill version: from `references/reference-resumes/`; template version: they are already there). Tell the user they are fictional layout examples saved as text files, and that polished PDF versions are in the GapToGrowth GitHub repository under `examples/reference-resumes/`. Never copy them into `My Resumes`.
 4. Welcome the user in two or three warm sentences, then ask in ONE message:
    - their full name, and confirm the file-name form (for example "Jane Doe" becomes `JaneDoe`)
    - the roles they are targeting and how they want to be positioned
@@ -141,7 +141,7 @@ The Learning Hub is NOT created in Phase 0. It is created on the first JD.
 2. Update file 02 with complete career history, projects, education, certifications, and the full skill inventory.
 3. Update file 03 with a scored entry for every skill in the inventory.
 4. Fill file 01 from the user's own resumes only, including how their style evolved.
-5. Read each file in `Reference Resumes` once and write short Layout Notes in file 01 (patterns only, never content).
+5. Read each file in `Reference Resumes` once and write short Layout Notes in file 01 (patterns only, never content). For the sample references, use their Layout specs block directly.
 6. In ONE message, list: every contradiction between versions (with the standing resume's value), every claim found only in older resumes, and every skill scored below 70% the user might actually have.
 7. Record the answers in files 02 and 03. Create no resume in Phase 1.
 

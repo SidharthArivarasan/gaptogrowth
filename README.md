@@ -12,7 +12,7 @@ Every skill gap becomes a chance to grow. GapToGrowth builds a personal **Learni
   <img src="assets/carousel/slide-5.png" width="30%" alt="Step 5: Every gap becomes a lesson">
 </p>
 
-Version 1.1.0 · [5-step walkthrough (PDF)](assets/carousel/GapToGrowth_Carousel.pdf) · [Try the Learning Hub demo](examples/learning-hub-demo)
+Version 1.1.1 · [5-step walkthrough (PDF)](assets/carousel/GapToGrowth_Carousel.pdf) · [Try the Learning Hub demo](examples/learning-hub-demo)
 
 ---
 
@@ -134,7 +134,7 @@ Whenever GapToGrowth needs a choice, it ends with **"Reply with one of:"** and t
 
 ## Reference resumes included
 
-Two fictional, one-page, ATS-friendly reference resumes, one for experienced professionals and one for recent graduates, show layout best practices. You can also add friends' resumes (with their permission). All references are used for layout ideas only, never as facts about you. See [`examples/reference-resumes`](examples/reference-resumes).
+Two fictional, one-page, ATS-friendly reference resumes, one for experienced professionals and one for recent graduates, show layout best practices. You can also add friends' resumes (with their permission). All references are used for layout ideas only, never as facts about you. The plugin ships them as text files with layout specs, and polished PDF and Word versions are in [`examples/reference-resumes`](examples/reference-resumes).
 
 ---
 

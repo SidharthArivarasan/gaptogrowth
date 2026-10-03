@@ -24,7 +24,7 @@ It never invents experience.
 
 1. **Keep this folder somewhere permanent**, such as Documents or a drive you back up.
 2. **Add your resumes** to `Sample Resume/My Resumes`. Add the word `Current` to your latest resume's file name (for example `Resume_Current.pdf`). If you don't, GapToGrowth will ask.
-3. *(Optional)* `Sample Resume/Reference Resumes` holds layout examples. GapToGrowth includes two fictional one-page samples. You can add resumes from friends or colleagues whose layout you like (ask them first). They're used for layout ideas only, never as facts about you.
+3. *(Optional)* `Sample Resume/Reference Resumes` holds layout examples. GapToGrowth includes two fictional one-page samples as text files with layout specs (polished PDF versions are in the GapToGrowth GitHub repository under examples/reference-resumes). You can add resumes from friends or colleagues whose layout you like (ask them first). They're used for layout ideas only, never as facts about you.
 4. **Open Claude Desktop and start a Cowork task.** If your message box shows "Chat" and "Cowork" options, select "Cowork." If it doesn't, you have the newer Claude experience where Cowork is built in, so just describe your task. Give Claude access to **this folder** only.
 5. If your Cowork project has a place for standing instructions, paste this there:
    > Use the GapToGrowth skill for every task in this project.

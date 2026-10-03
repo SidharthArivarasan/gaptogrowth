@@ -1,11 +1,13 @@
 # Reference Resumes
 
-Two fictional, one-page resumes that show the layout GapToGrowth considers best practice. GapToGrowth copies the PDFs into `Sample Resume/Reference Resumes` during onboarding and uses them for **layout ideas only**, never as facts about you.
+Two fictional, one-page resumes that show the layout GapToGrowth considers best practice. GapToGrowth copies the Markdown versions into `Sample Resume/Reference Resumes` during onboarding and uses them for **layout ideas only**, never as facts about you. The polished PDF and Word versions here are for people who want to see the finished layout.
 
 | File | For | Section order |
 |---|---|---|
-| `Reference_Experienced_OnePage` (.docx, .pdf) | Professionals with several years of experience | Summary, Experience, Skills, Education, Certifications |
-| `Reference_Graduate_OnePage` (.docx, .pdf) | Students and recent graduates | Education, Experience, Projects, Skills, Leadership & Activities |
+| `Reference_Experienced_OnePage` (.md, .docx, .pdf) | Professionals with several years of experience | Summary, Experience, Skills, Education, Certifications |
+| `Reference_Graduate_OnePage` (.md, .docx, .pdf) | Students and recent graduates | Education, Experience, Projects, Skills, Leadership & Activities |
+
+The `.md` files are the versions GapToGrowth reads: plain text with a Layout specs block, so the Claude directory and anyone else can inspect every file.
 
 ## Standards they follow
 
