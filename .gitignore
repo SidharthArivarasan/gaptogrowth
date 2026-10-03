@@ -1,0 +1,6 @@
+# Private working files. Never publish these.
+PUBLISH_HANDOFF.md
+_import/
+*.tmp
+.DS_Store
+Thumbs.db

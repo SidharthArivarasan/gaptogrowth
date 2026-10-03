@@ -1,0 +1,15 @@
+{
+  "name": "gaptogrowth-marketplace",
+  "description": "GapToGrowth: honest, job-specific resumes plus a personal Learning Hub for every skill gap.",
+  "owner": {
+    "name": "Sidharth Arivarasan"
+  },
+  "plugins": [
+    {
+      "name": "gaptogrowth",
+      "source": "./plugins/gaptogrowth",
+      "description": "Tailor your resume to each job description without false claims, and turn every skill gap into a lesson you can practice in your Learning Hub.",
+      "category": "productivity"
+    }
+  ]
+}
