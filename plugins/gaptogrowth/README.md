@@ -4,6 +4,8 @@
 
 GapToGrowth tailors your resume to every job description without false claims. It learns your real experience and writing style from your past resumes, shows which keywords you can honestly claim with a confidence score for each, and asks before adding anything it cannot verify. You get a one-page, ATS-friendly resume in your own voice, as a Word document first and a PDF after you approve it.
 
+You can also ask for a cover letter, and when you land an interview, an interview prep set in the CARL format.
+
 Every skill gap becomes a lesson in your personal **Learning Hub**: a local website that ranks your top gaps across all your applications and lets you practice with flashcards, hands-on labs, quizzes, story rehearsal, and timed mock interviews. When you've practiced a skill, GapToGrowth offers, with your OK, to add it to your resume evidence as lab experience.
 
 ## Get started
@@ -21,7 +23,7 @@ Every skill gap becomes a lesson in your personal **Learning Hub**: a local webs
 ## Data and privacy
 
 - GapToGrowth reads and writes files **only in the folder you choose**.
-- It makes **no network requests** and sends your data to no other service.
+- It makes **no network requests** by default and sends your data to no other service. The only optional exception is a web lookup of a company when you ask for a cover letter and approve it.
 - The Learning Hub is a single local HTML file that runs offline, with no external scripts, fonts, or images. Progress is stored in your browser and, when you save, in a file in your folder.
 - Nothing is stored outside your folder. Delete the folder to delete everything.
 

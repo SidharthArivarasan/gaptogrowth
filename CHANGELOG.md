@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.2.0
+- **Cover letters (optional):** offered once before each Word resume, or on request. Built from your verified experience and this job's confirmed keywords. Company research is optional and asks first: paste the company's About text, let it look the company up, or skip.
+- **Interview prep (CARL method):** tell GapToGrowth you have an interview and it builds 20 to 26 behavioral and situational questions from the job description, with answers in Context, Action, Result, Lesson format. Only real, verified stories are used, and it tells you when there is no honest answer.
+- **Verify before writing:** certifications and status claims are checked against your Evidence Bank before they appear in any resume or letter.
+- **Readability default:** bullets of 1 to 1.5 lines, one idea per bullet, confirmed metrics always kept, and visible white space at the page edges.
+- Cover letter and interview prep instructions live in separate reference files that load only when needed, so everyday sessions stay light.
+
 ## 1.1.3
 - Added a privacy policy (PRIVACY.md) and privacyPolicyUrl.
 

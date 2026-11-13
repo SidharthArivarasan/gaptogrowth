@@ -10,7 +10,7 @@ GapToGrowth is a free, open-source Claude plugin. This policy explains what it d
 - Nothing is stored anywhere else. Delete the folder to delete everything.
 
 ## What GapToGrowth sends elsewhere
-- Nothing. GapToGrowth has no server, makes no network requests, and does not collect analytics or usage data.
+- Nothing. GapToGrowth has no server and does not collect analytics or usage data. By default it makes no network requests. The one exception is optional: if you ask for a cover letter and choose to let it look up a company on the web, Claude searches for public information about that company. No personal details from your files are needed for that search.
 - The Learning Hub is a single local web page that runs offline. Its progress is saved in your browser and, when you choose to save it, in a file in your folder.
 - The maintainer never receives your data.
 
